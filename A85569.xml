@@ -1,0 +1,208 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A great and bloody fight in Ireland. The killing of Collonel Cook, and many other commission officers and souldiers to the Parliament of England, by a party of Irish Tories commanded by Generall Owen Oneale. Also, a letter from the great councell of the Irish holden at Galway to Leiut: Gen: Ludlowe, with some propositions for the Parliament of England. With the articles of agreement made between commissary Gen: Reynolds and Collonel Fitz Patrick, in behalf of himself and his whole partie of the Irish, and the form of their engagement to the common-wealth of England.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85569</idno>
+            <idno type="STC">Wing G1644</idno>
+            <idno type="STC">Thomason E659_17</idno>
+            <idno type="STC">ESTC R206714</idno>
+            <idno type="EEBO-CITATION">99865827</idno>
+            <idno type="PROQUEST">99865827</idno>
+            <idno type="VID">166121</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85569)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166121)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 101:E659[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A great and bloody fight in Ireland. The killing of Collonel Cook, and many other commission officers and souldiers to the Parliament of England, by a party of Irish Tories commanded by Generall Owen Oneale. Also, a letter from the great councell of the Irish holden at Galway to Leiut: Gen: Ludlowe, with some propositions for the Parliament of England. With the articles of agreement made between commissary Gen: Reynolds and Collonel Fitz Patrick, in behalf of himself and his whole partie of the Irish, and the form of their engagement to the common-wealth of England.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by F:N:,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1652]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aprill. 12 1652.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166121:1" rendition="simple:additions"/>
+            <p>A GREAT AND BLOODY FIGHT IN IRELAND The killing of Collonel <hi>Cook,</hi> and many other Commiſſion Officers and Soul<g ref="char:EOLunhyphen"/>diers to the Parliament of <hi>England,</hi> by a party of <hi>Iriſh Tories</hi> Commanded by Generall <hi>Owen Oneale.</hi>
+            </p>
+            <p>ALSO, A Letter from the great Councell of the <hi>Iriſh</hi> holden at <hi>Galway</hi> to Lieut: Gen: <hi>Ludlowe,</hi> with ſome Propoſitions for the Parliament of <hi>England.</hi>
+            </p>
+            <p>WITH The Articles of Agreement made between Commiſſary Gen: <hi>Reynolds</hi> and Collonel <hi>Fitz Patrick,</hi> in behalf of himſelf and his whole partie of the <hi>Iriſh,</hi> and the form of their Engagement to the Common-wealth of <hi>England.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>F: N:</hi> 
+               <add>Ap<gap reason="illegible" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>ll 12 1652</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:166121:2"/>
+            <pb n="1" facs="tcp:166121:2"/>
+            <head>A Letter to Li<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut: Gen: <hi>Ludlowe</hi> from and in the name of the <hi>Iriſh</hi> Councel holden at <hi>Galway, March</hi> 9th. 1652.</head>
+            <p>
+               <seg rend="decorInit">B</seg>Y the return made from you upon the overture made by his Excellency the Lord Marquis of <hi>Clanrickard,</hi> Lord Deputy Generall of <hi>Ireland,</hi> for a treaty, in order to a generall ſettlement of this Nation: We underſtand that you, as being not qualified with ſufficient power decline it, leaving the ſame un<g ref="char:EOLhyphen"/>to the Parliament of the Common-wealth of <hi>England,</hi> unto whom although you give but little incouragement, for addreſ<g ref="char:EOLhyphen"/>ſes to be made in that kind: yet to the end we may perform our parts in humbling our ſelves before the omnipotent hand of God, by whoſe permiſſion, they are raiſed to their preſent height and leave no way unattempted for quenching an unnaturall Quarrel, between two Nations (of late) linked in love, allied in blood, and not different in Laws. And upon conſideration had that probably, the Parliament of <hi>England</hi> will in their wiſedoms liſten and condeſcend unto the reaſonable deſires of this Nati<g ref="char:EOLhyphen"/>on, for a generall ſettlement: when they ſhall duly weigh the neceſſity and duty forcing, and obliging their continuance in Armes hitherto: The good deſires the people of this Land, and affections to ſupport the intereſt of <hi>England,</hi> the manifold bene<g ref="char:EOLhyphen"/>fits ariſing to the Parliament by a good peace, and voluntary acceptance of this people, of their protection, and many other advantages to be derived from thence, and on the other ſide, the expence and uncertainty of a tedious warr, prooved by the experience of former Ages, which beſides the injuſtice of it, a<g ref="char:EOLhyphen"/>gainſt a people deſiring peace, numerous in armes, and capable of forrain ſuccours, can bring no return of profit, rouſe their thoughts, (hopeleſſe of other remedies) unto the higheſt pitch of a deſperate Reſolution, which by Gods aſſiſtance may alter
+<pb n="2" facs="tcp:166121:3"/>the preſent ſtate of their Affairs, and produce almoſt but a con<g ref="char:EOLhyphen"/>queſt of a waſted Country, not to be paralleld to a peace, groun<g ref="char:EOLhyphen"/>ded on a treaty, and willing concurrence of the people: There<g ref="char:EOLhyphen"/>fore the great Councell of the Kingdome here Aſſembled, have thought fit to direct this expreſs unto you, deſiring that you wil be pleaſed to ſend a ſafe conduct in blank unto ſuch Commiſſi<g ref="char:EOLhyphen"/>oners with their retinue, not exceeding the number of thirty in all, as ſhall be imployed for this Kingdome unto the Parliament of <hi>England,</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o repreſent the deſires of this Nation unto them: And it for the avoiding further effſiuon of Chriſtian blood, a ceſſation of Armes, and acts of hoſtility be conſented unto, un<g ref="char:EOLhyphen"/>till the pleaſu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of the Parliament of <hi>England</hi> ſhall be known, we conceive it may principally conduce to the ſatisfaction of the Parliament, and ſettlement of this Kingdome: All which I had in Command from the ſaid Councell, to intimate unto you, and ſo I remain your ſervant,</p>
+            <closer>
+               <dateline>Galway <date>9 Martii 1651.</date>
+               </dateline>
+               <signed>Richard Blake.</signed>
+            </closer>
+            <trailer>For Lieutenant Generall <hi>Ludlow,</hi> Commander in chief of the Par<g ref="char:EOLhyphen"/>liaments Forces in this King<g ref="char:EOLhyphen"/>dome.</trailer>
+         </div>
+         <div type="letter">
+            <head>Lieut: Gen: <hi>Ludlowes</hi> Anſwer to the former Letter.</head>
+            <p>IN yours of the 9th: inſtant which came to my hand the 17th: (ſigned by command of the great Councell at <hi>Galway,</hi> aſſem<g ref="char:EOLhyphen"/>bled as you are pleaſed to ſtile them, whoſe Authority I may not acknowledge) you reiterate in effect the former application from the Earl of <hi>Clanrichard</hi> for the ſettlement of this Nation; differing onely in this, That whereas he would have capitulated in that Affair upon the place, you propoſe for Licence to be gi<g ref="char:EOLhyphen"/>ven unto Commiſſioners to repair unto the Parliament about the ſame, which hath been occaſioned through this miſtake (as I conceive) you apprehending that deny all to proceed, meerly from the want of power in the Miniſters of the Parliament here, whereas indeed the cheif ground thereof was the unreaſonable<g ref="char:EOLhyphen"/>neſs of the Propoſition it ſelf: which was in my judgement in effect thus. That ſuch (who are guilty of a bloody and cruell
+<pb n="3" facs="tcp:166121:3"/>maſſacre, at leaſt engaged in the with-holding of them from Ju<g ref="char:EOLhyphen"/>ſtice, who are ſo whom the righteous hand of God hath proſe<g ref="char:EOLhyphen"/>cuted from Field to Field, from City to City, even to the gates of <hi>Galway</hi>) ſhould be admitted to capitulate, about the ſettle<g ref="char:EOLhyphen"/>ment of this Nation, which the Parliament of <hi>England</hi> (their lawfull Magiſtrate) whom God hath not onely permitted to be raiſed to their preſent height (as you term it) but by his own out-ſtretched Arm, and glorious preſence, hath enabled to be<g ref="char:EOLhyphen"/>come a terror to evil doers, and an encouragement to them that do well. And this Capitulation to be before they have either owned their guilt, or delivered thoſe <hi>Achans</hi> to Juſtice, for whoſe iniquitie the Law mourns. Indeed if once the Lord would truly humble you under his omnipotent hand for your raiſing and fomenting this unnaturall quarrel between two Nations of late linked in love, allied in blood, and not different in Laws (as your ſelves confeſſe) and would incline you timely and readily to ſubmit to their Authority (as the greateſt part of the Nation have already done) I ſhould then hope, that deliverance were drawing nigh (at leaſt) to a remnant of thoſe amongſt you, who yet continue in diſobedience; and that ſuch of you might be capable of that ſettlement which (at this time) the Parliament of <hi>England</hi> is intent upon. But while you inſiſt upon the Juſtice of your Cauſe, and perſevere, in your hoſtility, its not the ad<g ref="char:EOLhyphen"/>vantages we may partake of by a ſettlement, nor the uncertain<g ref="char:EOLhyphen"/>tie of a tedious warre proved by experience of former Ages, or backt by a number of people in Arms capable of forraign ſuc<g ref="char:EOLhyphen"/>cours, nor fear of having this Countrey rendred waſte, and uſe<g ref="char:EOLhyphen"/>leſs to us, that ought to deter us from doing our duty, or invite us to this ſinfull or unworthy compliance with you. As touch<g ref="char:EOLhyphen"/>ing the Ceſſation you propoſe for the avoiding of the further effuſion of Chriſtian blood, I could wiſh that this tenderneſs had (in the beginning) poſſeſſed your ſpirits; but how ſuch a Ceſſa<g ref="char:EOLhyphen"/>tion can be ſatisfactory to the Parliament of <hi>England</hi> appears not to me, ſeeing they have been at ſo vaſte a charge in their pre<g ref="char:EOLhyphen"/>parations for the putting a ſpeedie iſſue to this Warre, which by the Lords aſſiſtance ſhall be heartily proſecuted by</p>
+            <closer>
+               <dateline>Dublin, <date>this 19th: March: 1651,</date>
+               </dateline>
+               <signed>Your Servant, <hi>Edmond Ludlowe.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <head>To Sir <hi>Richard Blake</hi> this.</head>
+               <pb n="4" facs="tcp:166121:4"/>
+               <p> Some few days before this one Coll: <hi>Fitz Patrick,</hi> the moſt eminent in Command amongſt the <hi>Iriſh</hi> in <hi>Weſt Meath,</hi> made an Agreement for himſelf and his whole party with the Commiſ<g ref="char:EOLhyphen"/>ſary Generall, they ingaging not to act any thing in prejudice of the Parliament of <hi>England,</hi> as appeareth by the Articles them<g ref="char:EOLhyphen"/>ſelves which I have herewith ſent you.</p>
+            </postscript>
+         </div>
+         <div type="articles_of_treaty">
+            <head>Articles of Agreement mad<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and concluded the <hi>7th</hi> day of March, <hi>1651.</hi> at <hi>Streames Town</hi> in the County of <hi>Weſt Meath,</hi> between Commiſſary Gen: <hi>Reynolds,</hi> and the reſt therein authorized of the one party; And Coll: <hi>John Fitz Patrick</hi> of the other part as fol<g ref="char:EOLhyphen"/>loweth: <hi>viz.</hi>
+            </head>
+            <p n="1">1. THat pardon for life ſhall be aſſured to Collonel <hi>Fitz Pa<g ref="char:EOLhyphen"/>trick</hi> aforeſaid, and all others of his party, except ſuch perſons as had a hand, or were actors in any of the Murthers, Maſſacres, or robberies which were committed upon the <hi>Engliſh,</hi> and Proteſtants in <hi>Ireland,</hi> during the firſt year of the Rebellion: Or any Murthers, or Maſſacres, ſince the firſt year committed upon any perſon, not being in Arms.</p>
+            <p n="2">2. That Collonel <hi>Fitz Patrick</hi> ſhall have liberty to tranſport himſelf, and his party, and Prieſts (except before excepted) in<g ref="char:EOLhyphen"/>to any the parts beyond the Seas, in amity with the Common<g ref="char:EOLhyphen"/>wealth of <hi>England.</hi> And that they ingage to act nothing preju<g ref="char:EOLhyphen"/>diciall to the Common-wealth of <hi>England,</hi> and that he ſhall have ſix moneths time allowed for tranſporting them at the Port of <hi>Waterford,</hi> and in the mean time to reſide in the Parlia<g ref="char:EOLhyphen"/>ments Quarters, or elſewhere, free from violence or injury offe<g ref="char:EOLhyphen"/>red them by the Parliaments Forces, they ingaging not to do any hoſtile Act in the Parliaments Quarters.</p>
+            <p n="3">3. That if the tranſportation of Coll: <hi>Fitz Patricks</hi> Party as aforeſaid, may be effected in a ſhorter time then ſix moneths, it ſhall be done accordingly. And if for want of wind or ſhipping, the ſaid tranſportation cannot be done within the ſaid time of ſix moneths, a further time ſhall be allowed as by the Right Ho<g ref="char:EOLhyphen"/>nourable the Commiſſioners of the Parliament for the Affairs of <hi>Ireland</hi> ſhall be judged neceſſary.</p>
+            <p n="4">4. That if any of Col: <hi>Fitz Patrix</hi> party, to be by him tranſ<g ref="char:EOLhyphen"/>ported
+<pb n="5" facs="tcp:166121:4"/>as aforeſaid, ſhall be found to be within the exceptions before given, advantage ſhall not be taken againſt them for the preſent, but liberty given them to return.</p>
+            <p n="5">5. That Col: <hi>Fitz Patrick</hi> or his party, (except before except<g ref="char:EOLhyphen"/>ed) ſhall not be ſubject to the ſuit of any perſon or perſons, for any act by them, or either of them done, ſince their being in Armer.</p>
+            <p n="6">6. That Col. <hi>Fitz Patrick</hi> and his party, ſhall at the waters ſide, where they ſhall be tranſported as aforeſaid lay down, and deliver their Arms to ſuch as ſhall be appointed to receive them. And that the ſaid Col: <hi>Fitz Patrick,</hi> and his party, ſhall have li<g ref="char:EOLhyphen"/>berty to ſell their horſes for their beſt advantage, to thoſe of the Parliaments party, and to none others: And that the ſaid Col. <hi>Fitz Patrick</hi> ſhall within twenty dayes from the date of theſe preſents, give to the Commiſſary Generall at <hi>Athlone,</hi> or to the Officer there Commanding in chief, a true Liſt of the names, and numbers of his party, who are to receive the benefit of theſe, and the following conceſſions. And that thenceforth they do no hoſtile act to the prejudice of the Parliaments Quarters, or Party.</p>
+            <p n="7">7. That the conſideration of Quarters for Col. <hi>Fitz Patrix</hi> party who are to be by him tranſported as aforeſaid, be deferred till the time of his giving in the lift of the names, and numbers of his ſaid party, mentioned in the precedent Articles: at which time the ſaid Col: <hi>Fitz Patrick</hi> ſhall deliver the particulars of his preſent aſſignations, whereby a courſe for the ſubſiſtance of his party, untill the time of their tranſportation as aforeſaid may be taken into conſideration, to be in order to the place of their tranſportation, as ſhall be thought moſt convenient.</p>
+            <p n="8">8. That if Col. <hi>Fitz Patrick,</hi> or any of his party, (except be<g ref="char:EOLhyphen"/>fore excepted) ſhall deſire to live peacably in <hi>Ireland,</hi> they ſhall be admitted ſo to do, they ſubmitting as all others to payment of contribution, and to all Ordinances of Parliament: Provided that this ſhall not extend to give protection to Prieſts, and Je<g ref="char:EOLhyphen"/>ſuites, or others of the Popiſh Clergy to live in the Parliaments Quarters. Provided alſo, that this their deſire be declared to the Commiſſary General aforeſaid, within twenty dayes from the date of theſe preſents, and the names of the ſaid perſons be de<g ref="char:EOLhyphen"/>livered
+<pb n="6" facs="tcp:166121:5"/>in writing, to whom protections (if deſired) ſhall be gi<g ref="char:EOLhyphen"/>ven as is uſuall.</p>
+            <p n="9">9. That for performance of theſe Articles Col: <hi>Fitz Patrick</hi> ſhall deliver ſufficient Hoſtages to the Commiſſary General at <hi>Athlone,</hi> or to the Officer there commanding in chief, when the ſame ſhall be required by the ſaid Commiſſary General.</p>
+            <p n="10">10. That Col. <hi>Fitz Patrick</hi> ſhall not be perſonally anſwera<g ref="char:EOLhyphen"/>ble for any unjuſt act done by his Father.</p>
+            <p n="11">11. That particular or perſonal actions of Col. <hi>Fitz Patricks</hi> party, or any of them, ſhall not extend further then to the per<g ref="char:EOLhyphen"/>ſons ſo acting. Col. <hi>Fitz Patrick,</hi> and the reſt or his party, and every of them uſing their utmoſt indeavour for bringing to ju<g ref="char:EOLhyphen"/>ſtice the perſons ſo acting.</p>
+            <p n="12">12. That if any doubt ſhall ariſe concerning the true intent, and meaning of the premiſſes or any part of them, it ſhall be left to the Commiſſary General aforeſaid, to clear the ſame as occaſion ſhall be offered.</p>
+            <p n="13">13. Laſtly, for performance of all, and ſingular the premiſſes, the parties hereunto have to theſe preſents interchangably ſet to their hands and Seals, the day and year firſt above written.</p>
+            <closer>
+               <signed>Signed, Sealed, and delivered in the preſence of
+<list>
+                     <item>John Fitz Patrick.</item>
+                     <item>Hen: Oowen.</item>
+                     <item>Cypryan Grace.</item>
+                     <item>Waller.</item>
+                     <item>Jo: Coghlane.</item>
+                  </list>
+               </signed>
+            </closer>
+            <postscript>
+               <opener>
+                  <dateline>Dublin <date>12. March 1652.</date>
+                  </dateline>
+               </opener>
+               <p>A party of the <hi>Tories</hi> being abroad, Collonel <hi>Cook</hi> went out with a party of the <hi>Engliſh,</hi> and meeting with them he gave the onſet, which proved a ſharp encounter; and after two houres fight, and many perſons killed &amp; wound<g ref="char:EOLhyphen"/>ed on both ſides, the Commander in cheif of the <hi>Iriſh</hi> received a ſhot in his belly, of which he dyed preſently after. We alſo ſlew of the Enemy about 60. and took 80. priſoners; amongſt thoſe that were ſlain and taken were 30 Commiſſion Officers, of which number was he that commanded the <hi>Iriſh</hi> party. And that which moſt affects us is the loſſe of that worthy Commander Collonel <hi>Cook,</hi> and two or three other Officers of approved fidelity to the Common-wealth of <hi>England.</hi>
+               </p>
+            </postscript>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
